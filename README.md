@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Omar Cuarenta Obrajero
 
-<!--
-**OmarC40/OmarC40** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA Engineer with experience in manual testing, UI automation, and API validation.
 
-Here are some ideas to get you started:
+My work is focused on creating clear test scenarios, identifying defects, and supporting software quality through structured validation processes. 
+I am particularly interested in web application testing, automation practices, and maintaining reliable test coverage across critical user flows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools and Technologies
+- Cypress
+- Playwright
+- Selenium
+- Postman
+- Jira
+- JavaScript
+- TypeScript
+
+## Areas of Focus
+- Manual testing
+- UI automation
+- API testing
+- Bug reporting
+- Test case design
