@@ -19,9 +19,3 @@ I am especially interested in web application testing, automation practices, and
 - API testing
 - Bug reporting
 - Test case design
-
-## Featured Repositories
-- QA portfolio
-- Cypress automation projects
-- Playwright automation practice
-- API testing with Postman
